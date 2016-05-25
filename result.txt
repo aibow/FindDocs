@@ -1,0 +1,6 @@
+D:\working\development\FindDocs\test\folder\folder\文档 - 副本.doc:2:关键词,$#%
+D:\working\development\FindDocs\test\folder\folder\文档 - 副本.docx:2:关键词,$#%
+D:\working\development\FindDocs\test\文档 - 副本.doc:2:关键词,$#%
+D:\working\development\FindDocs\test\folder\folder\文档.docx:2:关键词,$#%
+D:\working\development\FindDocs\test\文档.docx:2:关键词,$#%
+D:\working\development\FindDocs\test\文档 - 副本.docx:2:关键词,$#%
