@@ -1,8 +1,8 @@
 # 搜索指定目录中包含指定关键词的word文档
 
-> 由于采用`win32com`,所以仅支持`windows`系统
-> `windows`系统必须安装`office word`软件
-> 需要`python 2.7.x`环境支持
+> 由于采用`win32com`,所以仅支持`windows`系统  
+> `windows`系统必须安装`office word`软件  
+> 需要`python 2.7.x`环境支持  
 > 需要`pywin32`库支持
 
 ## 参数说明
